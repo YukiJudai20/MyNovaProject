@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{9f5f6213-51b6-f952-4901-27c7e1f7bbbd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Editor", "ASP.Editor.csproj", "{e4ed0133-eb31-6095-de9f-811062e7a9b1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDemo", "ASPDemo.csproj", "{fec7c17c-b6bd-f13a-9e47-23691da1f49f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringBoneEditor", "SpringBoneEditor.csproj", "{01a7360c-d291-e460-0c41-93e18923fab9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{f0003925-4b5e-0d9e-f395-457aec5da3d0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LWGUIExtend", "LWGUIExtend.csproj", "{6757b42e-e6db-ab8b-3585-60772a10058e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{992c4909-762f-0011-d721-cbdf5222b6c5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP", "ASP.csproj", "{545f836d-eb7d-77fc-20f4-5a24921803e2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{72191adc-6bc6-a485-8110-cf69fdf02782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{2bb79c4e-5ade-fbe8-55d6-74bed1e69fb9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9f5f6213-51b6-f952-4901-27c7e1f7bbbd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9f5f6213-51b6-f952-4901-27c7e1f7bbbd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e4ed0133-eb31-6095-de9f-811062e7a9b1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e4ed0133-eb31-6095-de9f-811062e7a9b1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fec7c17c-b6bd-f13a-9e47-23691da1f49f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fec7c17c-b6bd-f13a-9e47-23691da1f49f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01a7360c-d291-e460-0c41-93e18923fab9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01a7360c-d291-e460-0c41-93e18923fab9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f0003925-4b5e-0d9e-f395-457aec5da3d0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f0003925-4b5e-0d9e-f395-457aec5da3d0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6757b42e-e6db-ab8b-3585-60772a10058e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6757b42e-e6db-ab8b-3585-60772a10058e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992c4909-762f-0011-d721-cbdf5222b6c5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992c4909-762f-0011-d721-cbdf5222b6c5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545f836d-eb7d-77fc-20f4-5a24921803e2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545f836d-eb7d-77fc-20f4-5a24921803e2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72191adc-6bc6-a485-8110-cf69fdf02782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72191adc-6bc6-a485-8110-cf69fdf02782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2bb79c4e-5ade-fbe8-55d6-74bed1e69fb9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2bb79c4e-5ade-fbe8-55d6-74bed1e69fb9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
